@@ -13,15 +13,15 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://ModuloPOS-GrupoF6',
+  url: 'https://EderMartinL.git.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/ModuloPOS-GrupoF6',
+  baseUrl: '/ModuloPOS-GrupoF6/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'gh-pages', // Usually your GitHub org/user name.
-  projectName: 'EderMartinL', // Usually your repo name.
+  organizationName: 'EderMartinL', // Usually your GitHub org/user name.
+  projectName: 'ModuloPOS-GrupoF6', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
