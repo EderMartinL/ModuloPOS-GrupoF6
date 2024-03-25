@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmodulo_pos_grupof_6=self.webpackChunkmodulo_pos_grupof_6||[]).push([[8175],{345:o=>{o.exports=JSON.parse('{"permalink":"/ModuloPOS-GrupoF6/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

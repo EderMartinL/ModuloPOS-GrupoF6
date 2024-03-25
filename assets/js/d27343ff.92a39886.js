@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmodulo_pos_grupof_6=self.webpackChunkmodulo_pos_grupof_6||[]).push([[3532],{1966:u=>{u.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);

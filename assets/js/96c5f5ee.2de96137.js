@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmodulo_pos_grupof_6=self.webpackChunkmodulo_pos_grupof_6||[]).push([[4507],{5023:o=>{o.exports=JSON.parse('{"label":"docusaurus","permalink":"/ModuloPOS-GrupoF6/blog/tags/docusaurus","allTagsPath":"/ModuloPOS-GrupoF6/blog/tags","count":4,"unlisted":false}')}}]);
